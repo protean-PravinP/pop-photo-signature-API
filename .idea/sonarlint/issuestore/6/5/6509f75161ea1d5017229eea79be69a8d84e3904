@@ -1,0 +1,10 @@
+
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñº³‘
+f	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÖ€Ï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢áÑ…ÿÿÿÿÿ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄÞ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+M
+java:S1135("2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ

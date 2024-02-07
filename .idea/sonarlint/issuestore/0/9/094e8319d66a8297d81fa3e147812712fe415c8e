@@ -1,0 +1,27 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¢áÑ…ÿÿÿÿÿ
+x	java:S116"^Rename this field "PhotoDetailsService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë°Åşÿÿÿÿ
+x	java:S116 "cRename this field "PhotoDetailsAuditService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óşÒ
+}	java:S116#"cRename this field "SingnatureDetailsService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Áß‰ùÿÿÿÿ
+}	java:S116&"hRename this field "SingnatureDetailsAuditService" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·õŸ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813""BRemove this field injection and use constructor injection instead.(êæÄŞ
+X
+java:S6813%"BRemove this field injection and use constructor injection instead.(êæÄŞ
+d
+java:S18541"NRemove this useless assignment to local variable "photoAndSignatureUpdateDto".(®§†“
+M
+java:S1135-"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+_
+java:S21478"DCombine this catch with the one at line 53, which has the same body.(¢­§Œÿÿÿÿÿ
+U
+java:S14811"?Remove this unused "photoAndSignatureUpdateDto" local variable.(®§†“
+M
+java:S11356"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+M
+java:S11359"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+E	java:S106M"+Replace this use of System.out by a logger.(Êà™”ıÿÿÿÿ
